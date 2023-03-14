@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 0-current_working_directory
 pwd
 #!/bin/bash
+=======
+#!/bin/bash
+pwd
+>>>>>>> 6c761575c2401c71b89fe945b2eea7896b5567f3
