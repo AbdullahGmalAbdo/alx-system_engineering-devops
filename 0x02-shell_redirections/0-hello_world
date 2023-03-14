@@ -3,4 +3,8 @@
 echo "Hello,world"
 =======
 echo "Hello,World"
+<<<<<<< HEAD
 >>>>>>> 6c761575c2401c71b89fe945b2eea7896b5567f3
+=======
+echo "a"
+>>>>>>> 7a53d45795c912ff7cb77e9183b1dad38b820411
